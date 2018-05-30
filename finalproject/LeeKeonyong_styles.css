@@ -1,0 +1,230 @@
+@charset "utf-8";
+header.row {
+	padding-top: 71px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 30px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-image: url(images/background_2.jpg);
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+
+}
+header.row h2 {
+	padding-top: 0px;
+	color: #fef2cd;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 46px;
+}
+nav.row .navbar.navbar-default {
+	background-color: #b4ebfd;
+}
+nav.row .nav.navbar-nav > li > a:link   {
+	border-left: 1px solid #82fcfc;
+	border-right: 1px solid #82fcfc;
+	border-bottom: 1px solid #Fef2cd;
+	border-top: 1px solid #Fef2cd;
+	color: #e1aa05;
+
+}
+nav.row .nav.navbar-nav {
+	margin: 0px auto;
+	width: 715px;
+	float: none;
+}
+nav.row .navbar {
+	margin-bottom: 0px;
+}
+footer {
+	padding-top: 1em;
+	padding-right: opx;
+	padding-left: opx;
+	padding-bottom: 1em;
+	background-color: #b4ebfd;
+	color: #7d5e03;
+	text-align: center;
+	margin-top: 5px;
+}
+article.row {
+}
+
+article.row figcaption {
+	text-align: left;
+	padding-left: 20px;
+	color: #469cb9;
+	padding-bottom: 11px;
+}
+.row h3 {
+	color: #469cb9;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+ul li .flt_rgt {
+	padding-right: 20px;
+	padding-left: 0px;
+
+}
+.row .col-xs-12 ul {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-style: normal;
+	font-size: 17pt;
+	line-height: 38px;
+	text-align: left;
+	text-indent: 20px;
+}
+header.row .col-xs-12 a {
+	color: #fef2cd;
+}
+.row .col-xs-12 .text-right {
+	text-align: right;
+}
+.row .col-xs-12 h4 {
+	color: #469cb9;
+}
+.row .col-xs-12 ol {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px){
+header.row h2 {
+	font-size: 21px;
+}
+header.row {
+	background-size: 100% 100%;
+	margin-bottom: -30px;
+}
+
+
+}
+
+@media (min-width: 768px){
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+header.row {
+	background-size: 100% 100%;
+	padding-top: 51px;
+	padding-bottom: 10px;
+}
+header.row h2 {
+	font-size: 29px;
+}
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+header.row h2 {
+	font-size: 32px;
+	padding-bottom: 0px;
+	padding-top: 19px;
+}
+header.row {
+	padding-top: 67px;
+
+
+
+
+
+
+	padding-bottom: 0.px;
+	margin-bottom: 0px;
+
+
+
+
+	background-size: 100% auto;
+	background-size: auto 100%;
+	background-size: 100% 100%;
+}
+
+
+}
+
+@media (min-width: 1200px){
+}
+
+@media (max-width: 426px){
+header.row h2 {
+	font-size: 16px;
+	text-align: left;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+header.row {
+	background-size: 100% 100%;
+}
+
+
+}
+nav.row .nav.navbar-nav > li > a:visited  {
+	border-left: 1px solid #82fcfc;
+	border-right: 1px solid #82fcfc;
+	border-bottom: 1px solid #Fef2cd;
+	border-top: 1px solid #Fef2cd;
+	color: #e1aa05;
+
+}
+nav.row .nav.navbar-nav > li > a:hover  {
+	border-left: 1px solid #82fcfc;
+	border-right: 1px solid #fef2cd;
+	border-bottom: 1px solid #Fef2cd;
+	border-top: 1px solid #Fef2cd;
+	color: #7d5e03;
+
+}
+
+article.row .flt_rgt{
+	float: right;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+article.row h2 {
+	color: #469cb9;
+	text-align: center;
+}
+
+article.row .flt_lft {
+	float: left;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+.row .col-xs-12 p {
+}
+article.row hr {
+	display: blcok;
+	margin-top: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #469cb9;
+}
+
+
+.trout {
+	width: 100%;
+	height: 0%;
+}
+.about {
+	color: #469cb9;
+}
